@@ -8,6 +8,11 @@
   "description": "癒すことで、自分も満たされる人生へ。",
   "icons": [
     {
+      "src": "./assets/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
       "src": "./assets/favicon-512.png",
       "sizes": "512x512",
       "type": "image/png"

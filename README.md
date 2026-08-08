@@ -12,9 +12,12 @@ haru luna の活動全体を紹介する静的LPです。
 - `assets/hero-video-poster.jpeg`
 - `assets/worldview-board.png`
 - `assets/haru-luna-logo.jpeg`
+- `assets/og-logo.png`
 - `assets/favicon-32.png`
+- `assets/favicon-192.png`
 - `assets/favicon-512.png`
 - `assets/apple-touch-icon.png`
+- `favicon.ico`
 - `assets/beginning-section.png`
 - `assets/future-section.png`
 - `assets/services-section.png`
